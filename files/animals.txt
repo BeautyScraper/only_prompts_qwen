@@ -1,0 +1,40 @@
+Deer
+Tiger
+Elephant
+Leopard
+Lion
+Bear
+Wolf
+Fox
+Wild Boar
+Monkey
+Gorilla
+Chimpanzee
+Orangutan
+Sloth
+Porcupine
+Raccoon
+Squirrel
+Hedgehog
+Badger
+Bison
+Moose
+Elk
+Jaguar
+Puma
+Lynx
+Hyena
+Jackal
+Tapir
+Pangolin
+Anteater
+Gaur
+Red Panda
+Civet
+Marten
+Ocelot
+Wolverine
+Bushbuck
+Okapi
+Tree Kangaroo
+Flying Squirrel
