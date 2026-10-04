@@ -1,1 +1,1 @@
- [actress] with [hairstyle].[expression] and she is in [posture]. [wearing]. [The background is a simple light [colors] with sparkles|| THe background consists [background]].
+Bollywood Actress [actress] with [hairstyle].[expression] and she is in [posture]. [wearing]. [The background is a simple light [colors] with sparkles|| THe background consists [background]].
